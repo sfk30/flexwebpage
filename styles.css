@@ -165,7 +165,6 @@ span {
 
 .bottom span {
     display: block;
-    text-align: left;
 }
 
 .signupp {
@@ -173,4 +172,13 @@ span {
     border: 2px solid white;
     color: white;
     margin-left: 100px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 16px;
+    background-color: #1F2937;
+    color:  #F9FAF8;
   }
