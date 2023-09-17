@@ -119,6 +119,7 @@ button {
     justify-content: center;
     align-items: center;
 }
+
 .quote { 
     font-size: 36px;
     font-weight: light;
@@ -126,10 +127,13 @@ button {
     color: #1F2937;
     max-width: 770px;
     border: 2px solid red;
-    flex-shrink: 0;
 }
 
 .person {
     font-weight: bold;
     border: 2px solid red;
+}
+
+span { 
+    float: right;
 }
