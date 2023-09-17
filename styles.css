@@ -109,3 +109,27 @@ button {
 .describe { 
     max-width: 150px;
 }
+
+.third {
+    background-color: #E5E7EB;
+    height: 300px;
+    padding: 50px 200px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.quote { 
+    font-size: 36px;
+    font-weight: light;
+    font-style: italic;
+    color: #1F2937;
+    max-width: 770px;
+    border: 2px solid red;
+    flex-shrink: 0;
+}
+
+.person {
+    font-weight: bold;
+    border: 2px solid red;
+}
