@@ -112,10 +112,9 @@ button {
 
 .third {
     background-color: #E5E7EB;
-    height: 300px;
+    height: 250px;
     padding: 50px 200px;
     display: flex;
-    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
 }
@@ -137,3 +136,41 @@ span {
     display: block;
     text-align: right;
 }
+
+.fourth {
+    background-color: white;
+    height: 200px;
+    padding: 50px 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.background {
+    background: royalblue;
+    height: 100px;
+    width: 850px;
+    border: 1px solid royalblue;
+    border-radius: 8px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.top { 
+    font-weight: bold;
+    padding-right: 0;
+}
+
+.bottom span {
+    display: block;
+    text-align: left;
+}
+
+.signupp {
+    background: royalblue;
+    border: 2px solid white;
+    color: white;
+    margin-left: 100px;
+  }
