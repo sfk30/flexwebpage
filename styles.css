@@ -126,14 +126,14 @@ button {
     font-style: italic;
     color: #1F2937;
     max-width: 770px;
-    border: 2px solid red;
+    margin-bottom: 10px;
 }
 
 .person {
     font-weight: bold;
-    border: 2px solid red;
 }
 
 span { 
-    float: right;
+    display: block;
+    text-align: right;
 }
